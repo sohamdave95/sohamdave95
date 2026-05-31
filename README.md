@@ -7,7 +7,7 @@
 
 ## What I'm Working On
 
-- 🔬 **Research Intern @ Ontario Tech University** — synthesizing novel solar fuel compounds with an assistant professor. Identified a **13x reactivity improvement** over baseline. Manuscript in preparation.
+- 🔬 **Research Intern @ Ontario Tech University** — synthesizing novel solar fuel compounds with an assistant professor. Identified a **13x reactivity improvement** over baseline.
 - 🤖 **Furuta Pendulum** — built a complete rotary inverted pendulum from scratch: custom CAD, ESP32 firmware, dual parallel PID control, and a MuJoCo digital twin with 95% sim-to-real accuracy.
 - 🚀 Exploring sim-to-real RL and Lyapunov energy-based swing-up control as next steps.
 
