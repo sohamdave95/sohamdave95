@@ -17,7 +17,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Furuta Pendulum](https://github.com/sohamdave95/pendproject) | Rotary inverted pendulum with MuJoCo digital twin and dual PID control | C++, Python, MuJoCo, ESP32 |
+| [Furuta Pendulum](https://github.com/sohamdave95/pendproject) | Rotary inverted pendulum with MuJoCo digital twin and dual PID control | C++, Python, MuJoCo|
 | [TVC Rocket Gimbal](https://github.com/sohamdave95/TVC-Rocket-Gimbal-v1) | Thrust vector control gimbal using gyroscope feedback | C++, ESP32 |
 | [MuJoCo Mars Rover](https://github.com/sohamdave95/Mujoco-Mars-Autonomous-Rover) | Autonomous rover simulation in MuJoCo | Python, MuJoCo |
 | [3D MPU Visualizer](https://github.com/sohamdave95/3D-MPU-Visualizer) | Real-time 3D IMU orientation visualizer over serial | C++, Processing |
