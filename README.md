@@ -36,18 +36,12 @@
 ## Technical Stack
 
 ```
-Languages:    C++  •  Python  •  Processing
-Hardware:     ESP32  •  AS5600  •  MPU6050  •  DRV8833  •  N20 motors
+Languages:    C++  •  Python  •  Processing • MJCF • XML
+Hardware:     ESP32  •  Arduino • All Hobby Parts
 Simulation:   MuJoCo
 CAD:          Onshape
 Control:      PID  •  Dual parallel control loops  •  Ziegler-Nichols tuning
 ```
-
----
-
-## Writing
-
-📝 [Exploring the Master of Control Systems — Furuta Pendulum](https://medium.com/@davesoh929/exploring-the-master-of-control-systems-furuta-2c28d4e2d2b4)
 
 ---
 
